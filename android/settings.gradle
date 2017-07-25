@@ -1,0 +1,3 @@
+rootProject.name = 'foodz'
+
+include ':app'
